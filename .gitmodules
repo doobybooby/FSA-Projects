@@ -1,3 +1,18 @@
 [submodule "dealers-choice-html-css-js"]
 	path = dealers-choice-html-css-js
 	url = git@github.com:doobybooby/dealers-choice-html-css-js.git
+[submodule "PairExercise.Selector.Jasmine"]
+	path = PairExercise.Selector.Jasmine
+	url = git@github.com:doobybooby/PairExercise.Selector.Jasmine.git
+[submodule "PairExercise.Pixelate.Flex"]
+	path = PairExercise.Pixelate.Flex
+	url = git@github.com:doobybooby/PairExercise.Pixelate.Flex.git
+[submodule "AVAX-Price-Tracker"]
+	path = AVAX-Price-Tracker
+	url = git@github.com:doobybooby/AVAX-Price-Tracker.git
+[submodule "guessing-game"]
+	path = guessing-game
+	url = git@github.com:doobybooby/guessing-game.git
+[submodule "Vanishing-Man"]
+	path = Vanishing-Man
+	url = git@github.com:doobybooby/Vanishing-Man.git
