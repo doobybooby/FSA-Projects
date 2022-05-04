@@ -13,3 +13,21 @@
 [submodule "Vanishing-Man"]
 	path = Vanishing-Man
 	url = git@github.com:doobybooby/Vanishing-Man.git
+[submodule "TestFirst-Part-1"]
+	path = TestFirst-Part-1
+	url = git@github.com:doobybooby/TestFirst-Part-1.git
+[submodule "foundations-checkpoint-pt-1"]
+	path = foundations-checkpoint-pt-1
+	url = https://github.com/doobybooby/foundations-checkpoint-pt-1.git
+[submodule "foundations-checkpoint-pt-2"]
+	path = foundations-checkpoint-pt-2
+	url = git@github.com:doobybooby/foundations-checkpoint-pt-2.git
+[submodule "TestFirst-Part-2"]
+	path = TestFirst-Part-2
+	url = git@github.com:doobybooby/TestFirst-Part-2.git
+[submodule "foundations-final-checkpoint"]
+	path = foundations-final-checkpoint
+	url = git@github.com:doobybooby/foundations-final-checkpoint.git
+[submodule "TestFirst-Review-V2"]
+	path = TestFirst-Review-V2
+	url = git@github.com:doobybooby/TestFirst-Review-V2.git
